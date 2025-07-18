@@ -12,16 +12,46 @@ I aim to work as a Data Analyst, helping companies make data-driven decisions th
 ## 🐍[Snake Pygame](https://github.com/dikshapandey08/SnakeGame)
 
 - Developed a classic Snake Game using Python and the Pygame library to understand fundamental programming concepts.
-
 - Implemented collision detection, score tracking, and smooth movement mechanics to create an engaging game experience.
-
 - Designed a simple graphical interface using Pygame with game loops and keyboard interaction logic.
-
 - Applied key concepts like event handling, loops, and game logic in Python for real-time performance.
 
  - **Tools** : Python, Pygame, Game Development, Event Handling
 
 ![Snake Game Screenshot](snake%20game%20screenshot.PNG) 
+
+
+## 🎵 Music Store Analysis
+
+- Analyzed music store data to uncover top-selling artists and revenue by genre.
+- Wrote optimized SQL queries to clean and analyze transactional data.
+- Suggested improvements for stock and inventory management.
+  
+- **Tools** : SQL, Data Cleaning, Joins, Subqueries
+
+
+
+
+
+
+
+  ## 🧾 Financial Statistics Dashboard
+ 
+- Developed a dynamic financial dashboard in MS Excel to visualize income, expenses, and performance trends across multiple years.
+- Created interactive charts (bar, doughnut, and network charts) and used formulas, slicers, and conditional formatting for real-time analysis.
+- Enabled users to track key financial metrics, compare performance with targets, and support data-driven decision-making.
+
+- **Tools** : MS Excel, Charts & Graphs, Pivot Tables, Slicers, Conditional Formatting, Data Visualization
+
+
+
+
+
+
+
+
+
+## Company's Sales Dashboard
 
 
 
