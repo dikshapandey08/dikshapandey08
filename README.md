@@ -21,3 +21,8 @@ I aim to work as a Data Analyst, helping companies make data-driven decisions th
 
  - **Tools** : Python, Pygame, Game Development, Event Handling
 
+![Snake Game Screenshot](snake%20game%20screenshot.PNG) 
+
+
+
+
