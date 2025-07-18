@@ -20,7 +20,7 @@ I aim to work as a Data Analyst, helping companies make data-driven decisions th
 
 ![Snake Game Screenshot](snake%20game%20screenshot.PNG) 
 
-## 🎵 Music Store Analysis
+##  🎵 Music Store Analysis
 
 - Analyzed music store data to uncover top-selling artists and revenue by genre.
 - Wrote optimized SQL queries to clean and analyze transactional data.
