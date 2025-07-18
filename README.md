@@ -20,7 +20,6 @@ I aim to work as a Data Analyst, helping companies make data-driven decisions th
 
 ![Snake Game Screenshot](snake%20game%20screenshot.PNG) 
 
-
 ## 🎵 Music Store Analysis
 
 - Analyzed music store data to uncover top-selling artists and revenue by genre.
@@ -35,7 +34,7 @@ I aim to work as a Data Analyst, helping companies make data-driven decisions th
 
 
 
-  ## 🧾 Financial Statistics Dashboard
+  ## 🧾Financial Statistics Dashboard
  
 - Developed a dynamic financial dashboard in MS Excel to visualize income, expenses, and performance trends across multiple years.
 - Created interactive charts (bar, doughnut, and network charts) and used formulas, slicers, and conditional formatting for real-time analysis.
