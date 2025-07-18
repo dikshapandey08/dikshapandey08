@@ -9,5 +9,5 @@ I'm a detail-oriented data analyst with hands-on experience in real-world projec
 I aim to work as a Data Analyst, helping companies make data-driven decisions through actionable dashboards, powerful analysis, and storytelling through data.
 
 ## 💼 Featured Projects
-📊 Snake Pygame (https://github.com/dikshapandey08/SnakeGame)
+🐍[Snake Pygame](https://github.com/dikshapandey08/SnakeGame)
 
