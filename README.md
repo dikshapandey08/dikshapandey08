@@ -55,8 +55,7 @@ I aim to work as a Data Analyst, helping companies make data-driven decisions th
 
 - **Tools**: Power BI, Data Modeling, CSV, DAX, Visual Analytics
 
-📸 [Dashboard Preview](![Ecommerce Dashboard](https://github.com/dikshapandey08/Ecommerce-Sales-Dashboard/blob/main/dashboard%20images/dashboard_image_1.jpg?raw=true))
-
+📸 ![Ecommerce Dashboard](https://github.com/dikshapandey08/Ecommerce-Sales-Dashboard/blob/main/images%20-/dashboard_image_1.jpg)
 
 
 
