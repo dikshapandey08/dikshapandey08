@@ -20,7 +20,7 @@ I aim to work as a Data Analyst, helping companies make data-driven decisions th
 
 ![Snake Game Screenshot](https://github.com/dikshapandey08/SnakeGame/blob/main/snake%20game%20screenshot.PNG)
 
-## 🎵Music Store Analysis(https://github.com/dikshapandey08/MusicStoreAnalysis)
+## 🎵[Music Store Analysis](https://github.com/dikshapandey08/MusicStoreAnalysis)
 
 - Analyzed music store data to uncover top-selling artists and revenue by genre.
 - Wrote optimized SQL queries to clean and analyze transactional data.
@@ -42,8 +42,7 @@ I aim to work as a Data Analyst, helping companies make data-driven decisions th
 
 
 
-## 📦E-commerce Sales Dashboard [Power BI]
-🔗 [Ecommerce Sales Dashboard](https://github.com/dikshapandey08/Ecommerce-Sales-Dashboard)
+## 📦[E-commerce Sales Dashboard](https://github.com/dikshapandey08/Ecommerce-Sales-Dashboard)
 
 - Developed an interactive sales dashboard using *Power BI* to visualize and analyze company-wide e-commerce sales performance.
 - Used structured CSV files (Orders.csv and Details.csv) to build a data model with relationships.
