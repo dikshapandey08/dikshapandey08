@@ -69,4 +69,15 @@ I aim to work as a Data Analyst, helping companies make data-driven decisions th
 | 💡 Soft Skills   | Problem-Solving, Communication, Teamwork, Presentation |
 
 
+## 🧾 Certifications
 
+- ✅ [AWS Cloud Practitioner](#)
+- 📊 Data Analytics Course – ICT Academy & Infosys (Aug–Sep 2024)
+- 🤖 AI & Machine Learning Internship – EduSkills (Jul–Sep 2024)
+
+## 📫 Let’s Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/dikshapandey08/)
+- [GitHub](https://github.com/dikshapandey08)
+- [Portfolio Website]()
+- [credly](https://www.credly.com/users/diksha-pandey.cc7e4aa1/badges#credly)
