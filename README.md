@@ -20,15 +20,16 @@ I aim to work as a Data Analyst, helping companies make data-driven decisions th
 
 ![Snake Game Screenshot](https://github.com/dikshapandey08/SnakeGame/blob/main/snake%20game%20screenshot.PNG)
 
-## 🎵 Music Store Analysis
+## 🎵Music Store Analysis(https://github.com/dikshapandey08/MusicStoreAnalysis)
 
 - Analyzed music store data to uncover top-selling artists and revenue by genre.
 - Wrote optimized SQL queries to clean and analyze transactional data.
 - Suggested improvements for stock and inventory management.
   
 - **Tools** : SQL, Data Cleaning, Joins, Subqueries
-
-
+ ![schemaScreenshot](https://github.com/dikshapandey08/MusicStoreAnalysis/blob/main/Schema.png)
+ ![analysis.sql](https://github.com/dikshapandey08/MusicStoreAnalysis/blob/main/analysis.sql)
+ ![music-query.txt](https://github.com/dikshapandey08/MusicStoreAnalysis/blob/main/music-query.txt)
 
 
 ## 🧾Financial Statistics Dashboard
