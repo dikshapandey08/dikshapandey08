@@ -44,13 +44,22 @@ I aim to work as a Data Analyst, helping companies make data-driven decisions th
 
 
 
+## 📦 E-commerce Sales Dashboard [Power BI]
+🔗 [Ecommerce Sales Dashboard]()
+
+- Developed an interactive sales dashboard using *Power BI* to visualize and analyze company-wide e-commerce sales performance.
+- Used structured CSV files (Orders.csv and Details.csv) to build a data model with relationships.
+- Showcased key metrics like *Total Sales, Profit, Quantity Sold, and AOV (Average Order Value)* using KPI cards.
+- Added interactive visuals such as *bar charts, pie charts, filters* (Quarter, State), and *customer insights* for better decision-making.
+- Created a modern *dark-themed dashboard* layout to enhance visual clarity and appeal.
+
+- **Tools**: Power BI, Data Modeling, CSV, DAX, Visual Analytics
+
+📸 [Dashboard Preview]()
 
 
 
 
-
-
-## Company's Sales Dashboard
 
 
 
