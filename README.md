@@ -18,7 +18,7 @@ I aim to work as a Data Analyst, helping companies make data-driven decisions th
 
  - **Tools** : Python, Pygame, Game Development, Event Handling
 
-![Snake Game Screenshot](snake%20game%20screenshot.PNG) 
+![Snake Game Screenshot](https://github.com/dikshapandey08/SnakeGame/blob/main/snake%20game%20screenshot.PNG)
 
 ##  🎵 Music Store Analysis
 
@@ -56,6 +56,8 @@ I aim to work as a Data Analyst, helping companies make data-driven decisions th
 - **Tools**: Power BI, Data Modeling, CSV, DAX, Visual Analytics
 
 📸 ![Ecommerce Dashboard](https://github.com/dikshapandey08/Ecommerce-Sales-Dashboard/blob/main/images%20-/dashboard_image_1.jpg)
+📸 ![Ecommerce Dashboard](https://github.com/dikshapandey08/Ecommerce-Sales-Dashboard/blob/main/images%20-/dashboard_image_2.jpg)
+📸 ![Ecommerce Dashboard](https://github.com/dikshapandey08/Ecommerce-Sales-Dashboard/blob/main/images%20-/dashboard_image_3.jpg)
 
 
 
