@@ -45,7 +45,7 @@ I aim to work as a Data Analyst, helping companies make data-driven decisions th
 
 
 ## 📦 E-commerce Sales Dashboard [Power BI]
-🔗 [Ecommerce Sales Dashboard]()
+🔗 [Ecommerce Sales Dashboard](https://github.com/dikshapandey08/Ecommerce-Sales-Dashboard)
 
 - Developed an interactive sales dashboard using *Power BI* to visualize and analyze company-wide e-commerce sales performance.
 - Used structured CSV files (Orders.csv and Details.csv) to build a data model with relationships.
