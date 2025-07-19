@@ -58,7 +58,15 @@ I aim to work as a Data Analyst, helping companies make data-driven decisions th
 
 
 
+## 🛠 Skills
 
+| Category       | Tools & Tech                                      |
+|----------------|---------------------------------------------------|
+| 👨‍💻 Programming   | Python (pandas, NumPy, matplotlib), SQL,HTML,CSS,JS             |
+| 📊 Visualization | Power BI,  Matplotlib                     |
+| 📋 Data Tools    | Excel (Pivot, VLOOKUP), Power Query,VS Code, Jupyter Notebook,Git,Figma               |
+| 🧪 Data Techniques | Data Cleaning, EDA, Regression, Forecasting      |
+| 💡 Soft Skills   | Problem-Solving, Communication, Teamwork, Presentation |
 
 
 
