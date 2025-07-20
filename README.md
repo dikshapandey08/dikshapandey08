@@ -56,6 +56,28 @@ I aim to work as a Data Analyst, helping companies make data-driven decisions th
 📸 ![Ecommerce Dashboard](https://github.com/dikshapandey08/Ecommerce-Sales-Dashboard/blob/main/images%20-/dashboard_image_2.jpg)
 📸 ![Ecommerce Dashboard](https://github.com/dikshapandey08/Ecommerce-Sales-Dashboard/blob/main/images%20-/dashboard_image_3.jpg)
 
+## [Diwali Sales Analysis]()
+
+- Performed *Exploratory Data Analysis (EDA)* on a Diwali sales dataset using Python libraries like Pandas, Matplotlib, and Seaborn.
+- Cleaned and transformed the dataset (handled null values, changed data types, filtered relevant data).
+- Conducted *customer segmentation* by analyzing gender, age group, marital status, and state-wise purchases.
+- Identified most sold product categories and top-performing products during Diwali season.
+- Visualized trends using *bar plots, pie charts, heatmaps*, and more to uncover actionable business insights.
+- Concluded that *married women aged 26–35* from IT/Healthcare sectors in states like Maharashtra & Karnataka are high-value customers.
+
+**Tools & Libraries** : Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook, CSV
+
+---
+
+### 📊 Sample Visualizations
+
+| Product Analysis                        | Customer Insights                        |
+|----------------------------------------|------------------------------------------|
+| ![Top Products]() | ![Gender Pie](images/gender_distribution.png) |
+| ![Age vs Spending](images/age_sales.png) | ![Heatmap](images/correlation_heatmap.png) |
+
+---
+
 
 
 ## 🛠 Skills
