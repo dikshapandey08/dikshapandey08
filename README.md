@@ -56,7 +56,7 @@ I aim to work as a Data Analyst, helping companies make data-driven decisions th
 📸 ![Ecommerce Dashboard](https://github.com/dikshapandey08/Ecommerce-Sales-Dashboard/blob/main/images%20-/dashboard_image_2.jpg)
 📸 ![Ecommerce Dashboard](https://github.com/dikshapandey08/Ecommerce-Sales-Dashboard/blob/main/images%20-/dashboard_image_3.jpg)
 
-## [Diwali Sales Analysis]()
+## [Diwali Sales Analysis](https://github.com/dikshapandey08/-Diwali-sales-analysis-using-Python)
 
 - Performed *Exploratory Data Analysis (EDA)* on a Diwali sales dataset using Python libraries like Pandas, Matplotlib, and Seaborn.
 - Cleaned and transformed the dataset (handled null values, changed data types, filtered relevant data).
@@ -73,9 +73,8 @@ I aim to work as a Data Analyst, helping companies make data-driven decisions th
 
 | Product Analysis                        | Customer Insights                        |
 |----------------------------------------|------------------------------------------|
-| ![Top Products]() | ![Gender Pie](images/gender_distribution.png) |
-| ![Age vs Spending](images/age_sales.png) | ![Heatmap](images/correlation_heatmap.png) |
-
+| ![Top Products](https://github.com/dikshapandey08/-Diwali-sales-analysis-using-Python/blob/main/images/top%20products_sales.PNG) | ![sales count](https://github.com/dikshapandey08/-Diwali-sales-analysis-using-Python/blob/main/images/count%20charts.PNG)|
+| ![data summary](https://github.com/dikshapandey08/-Diwali-sales-analysis-using-Python/blob/main/images/data%20summary.PNG) |
 ---
 
 
